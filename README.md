@@ -50,6 +50,8 @@ RegisterNumber: 212222230060
 */
 
 **FULL ADDER**
+
+
 ![image](https://github.com/kanimozhipannerselvam/FULL_ADDER_SUBTRACTOR/assets/119476060/08e8d52c-1938-419f-aa5c-eb2002c64dd2)
 
 **FULL SUBTRACTOR**
